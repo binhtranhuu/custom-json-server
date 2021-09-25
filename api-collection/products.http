@@ -1,0 +1,37 @@
+@baseUrl = http://localhost:3000/api
+@resourceName = products
+
+# POST
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+
+###
+
+# @name filter
+GET {{baseUrl}}/{{resourceName}}?color=cyan&color=magenta
+
+###
+
+# @name addNew
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+  "title": "This is Demo Add Post",
+  "author": "Binh Tran"
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/1
+Content-Type: application/json
+
+{
+  "title": "This is Demo Add Post New"
+}
+
+###
+# @name delete
+DELETE {{baseUrl}}/{{resourceName}}/2
