@@ -1,21 +1,36 @@
 {
-  "posts": [
+  "categories": [
     {
-      "title": "This is Demo Add Post",
-      "author": "Binh Tran",
-      "createdAt": 1632499097440,
-      "updatedAt": 1632499097440,
-      "id": 1
+      "id": "3ba49fd4-ca47-4e80-9976-9a5c00d2ca6b",
+      "name": "Sports",
+      "createdAt": 1632533556494,
+      "updatedAt": 1632533556494
+    },
+    {
+      "id": "36955233-c560-4a02-83af-11874f5a9193",
+      "name": "Baby",
+      "createdAt": 1632533556494,
+      "updatedAt": 1632533556494
+    },
+    {
+      "id": "0b8a696b-ea1b-4b35-bda6-6b7fab0f4b01",
+      "name": "Books",
+      "createdAt": 1632533556494,
+      "updatedAt": 1632533556494
+    },
+    {
+      "id": "6cd464a2-57fd-4c4a-bc24-0c29a80c327b",
+      "name": "Automotive",
+      "createdAt": 1632533556494,
+      "updatedAt": 1632533556494
+    },
+    {
+      "id": "4ef7fd56-8102-4166-be3a-50caa656f2ae",
+      "name": "Grocery",
+      "createdAt": 1632533556494,
+      "updatedAt": 1632533556494
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [],
+  "profile": { "name": "Binh tran" }
 }
