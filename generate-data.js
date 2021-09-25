@@ -1,7 +1,7 @@
-var faker = require("faker");
-var fs = require("fs");
+var faker = require('faker');
+var fs = require('fs');
 
-faker.locale = "vi";
+faker.locale = 'vi';
 
 const randomCategoryList = (n) => {
   if (n <= 0) return [];
@@ -56,12 +56,12 @@ const randomProductList = (categoryList, numberOfProduct) => {
     categories: categoryList,
     products: productList,
     profile: {
-      name: "Binh tran",
+      name: 'Binh tran',
     },
   };
 
   // Write db object to db.json
-  fs.writeFile("db.json", JSON.stringify(db), () => {
-    console.log("Generate data successfully");
+  fs.writeFile('db.json', JSON.stringify(db), () => {
+    console.log('Generate data successfully');
   });
 })();
