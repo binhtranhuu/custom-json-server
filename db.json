@@ -1,36 +1,312 @@
 {
   "categories": [
     {
-      "id": "3ba49fd4-ca47-4e80-9976-9a5c00d2ca6b",
-      "name": "Sports",
-      "createdAt": 1632533556494,
-      "updatedAt": 1632533556494
+      "id": "329647ba-3b93-41bf-9512-2810477997ae",
+      "name": "Music",
+      "createdAt": 1632536080724,
+      "updatedAt": 1632536080724
     },
     {
-      "id": "36955233-c560-4a02-83af-11874f5a9193",
-      "name": "Baby",
-      "createdAt": 1632533556494,
-      "updatedAt": 1632533556494
-    },
-    {
-      "id": "0b8a696b-ea1b-4b35-bda6-6b7fab0f4b01",
-      "name": "Books",
-      "createdAt": 1632533556494,
-      "updatedAt": 1632533556494
-    },
-    {
-      "id": "6cd464a2-57fd-4c4a-bc24-0c29a80c327b",
-      "name": "Automotive",
-      "createdAt": 1632533556494,
-      "updatedAt": 1632533556494
-    },
-    {
-      "id": "4ef7fd56-8102-4166-be3a-50caa656f2ae",
+      "id": "617b2b3a-6ccd-49fb-bb76-aacd1f437897",
       "name": "Grocery",
-      "createdAt": 1632533556494,
-      "updatedAt": 1632533556494
+      "createdAt": 1632536080725,
+      "updatedAt": 1632536080725
+    },
+    {
+      "id": "a0a4d7ec-0bec-4783-8894-b405264e3db2",
+      "name": "Tools",
+      "createdAt": 1632536080725,
+      "updatedAt": 1632536080725
+    },
+    {
+      "id": "ee5e893c-482b-4361-8e16-76da392eae1a",
+      "name": "Kids",
+      "createdAt": 1632536080725,
+      "updatedAt": 1632536080725
+    },
+    {
+      "id": "a7f576f4-6f5b-4cf5-b569-1a408fa779cc",
+      "name": "Clothing",
+      "createdAt": 1632536080725,
+      "updatedAt": 1632536080725
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "categoryId": "329647ba-3b93-41bf-9512-2810477997ae",
+      "id": "33a7a846-4eab-4474-af24-92674c511114",
+      "name": "Tasty Rubber Bacon",
+      "color": "silver",
+      "price": "808.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1632536080725,
+      "updatedAt": 1632536080725,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "329647ba-3b93-41bf-9512-2810477997ae",
+      "id": "047f1b6d-1768-4435-a358-c915baab3b47",
+      "name": "Tasty Granite Chips",
+      "color": "olive",
+      "price": "311.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "329647ba-3b93-41bf-9512-2810477997ae",
+      "id": "3e593e25-c0f6-4c06-86b2-6acddf1ac0e1",
+      "name": "Handcrafted Soft Towels",
+      "color": "maroon",
+      "price": "350.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "329647ba-3b93-41bf-9512-2810477997ae",
+      "id": "0e46bbf3-0295-439a-a3f3-69395081840c",
+      "name": "Handcrafted Cotton Soap",
+      "color": "ivory",
+      "price": "281.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "329647ba-3b93-41bf-9512-2810477997ae",
+      "id": "ea241dea-dc36-4543-9496-b507c3fb43c3",
+      "name": "Awesome Soft Bacon",
+      "color": "cyan",
+      "price": "350.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "617b2b3a-6ccd-49fb-bb76-aacd1f437897",
+      "id": "ffe5bb58-1f43-4438-9752-26d1b565149e",
+      "name": "Small Plastic Pants",
+      "color": "yellow",
+      "price": "830.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "617b2b3a-6ccd-49fb-bb76-aacd1f437897",
+      "id": "80f4d179-7fe8-41f7-937e-93faca93c186",
+      "name": "Tasty Concrete Keyboard",
+      "color": "white",
+      "price": "125.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "617b2b3a-6ccd-49fb-bb76-aacd1f437897",
+      "id": "34c08d4d-6041-4851-9c93-9f25edaee918",
+      "name": "Handmade Cotton Ball",
+      "color": "cyan",
+      "price": "704.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "617b2b3a-6ccd-49fb-bb76-aacd1f437897",
+      "id": "ffde93dc-cb0d-4a6f-8d9f-1c0b13155bbc",
+      "name": "Small Concrete Chicken",
+      "color": "turquoise",
+      "price": "301.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "617b2b3a-6ccd-49fb-bb76-aacd1f437897",
+      "id": "af2b9f76-f6b6-4e66-b618-1d1ccc265f1e",
+      "name": "Sleek Fresh Towels",
+      "color": "yellow",
+      "price": "453.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a0a4d7ec-0bec-4783-8894-b405264e3db2",
+      "id": "564948ec-5cc3-4694-b300-face79404f4b",
+      "name": "Handcrafted Granite Car",
+      "color": "grey",
+      "price": "418.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a0a4d7ec-0bec-4783-8894-b405264e3db2",
+      "id": "14b686ca-53b2-478d-87d9-4f8c1e4d5a9b",
+      "name": "Rustic Concrete Ball",
+      "color": "azure",
+      "price": "667.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1632536080726,
+      "updatedAt": 1632536080726,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a0a4d7ec-0bec-4783-8894-b405264e3db2",
+      "id": "1cf88b26-7a16-4879-91e8-98081f4a9c20",
+      "name": "Refined Fresh Towels",
+      "color": "plum",
+      "price": "391.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a0a4d7ec-0bec-4783-8894-b405264e3db2",
+      "id": "798ddfd5-a222-4361-98d4-6aa3bf06e93b",
+      "name": "Incredible Steel Sausages",
+      "color": "silver",
+      "price": "181.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a0a4d7ec-0bec-4783-8894-b405264e3db2",
+      "id": "486977ba-1114-45e4-b8d8-df353e188639",
+      "name": "Practical Concrete Shoes",
+      "color": "lime",
+      "price": "907.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee5e893c-482b-4361-8e16-76da392eae1a",
+      "id": "bab23061-e10d-4230-910d-2662c31bed4f",
+      "name": "Awesome Wooden Ball",
+      "color": "tan",
+      "price": "962.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee5e893c-482b-4361-8e16-76da392eae1a",
+      "id": "4998e3f8-6308-4d45-bcdb-7270556fb6af",
+      "name": "Small Plastic Mouse",
+      "color": "blue",
+      "price": "524.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee5e893c-482b-4361-8e16-76da392eae1a",
+      "id": "5ac1e7ae-1841-43e9-b7bc-0bc898a7382b",
+      "name": "Sleek Concrete Chips",
+      "color": "fuchsia",
+      "price": "50.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee5e893c-482b-4361-8e16-76da392eae1a",
+      "id": "c913f75b-2c0c-4707-aab0-41b5c4a62295",
+      "name": "Tasty Wooden Chips",
+      "color": "purple",
+      "price": "808.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "ee5e893c-482b-4361-8e16-76da392eae1a",
+      "id": "dced6bc6-7d1f-442c-9427-29105ae02451",
+      "name": "Awesome Plastic Pizza",
+      "color": "turquoise",
+      "price": "838.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a7f576f4-6f5b-4cf5-b569-1a408fa779cc",
+      "id": "744f6600-8c83-48e0-88b2-9dc0d73ab32f",
+      "name": "Fantastic Plastic Soap",
+      "color": "teal",
+      "price": "989.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a7f576f4-6f5b-4cf5-b569-1a408fa779cc",
+      "id": "3ad6e954-913d-48a8-ade9-e4124d335c82",
+      "name": "Handmade Wooden Mouse",
+      "color": "lime",
+      "price": "844.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a7f576f4-6f5b-4cf5-b569-1a408fa779cc",
+      "id": "476cd6e6-5eb9-4d9d-bfbe-707a00270bcd",
+      "name": "Handcrafted Soft Mouse",
+      "color": "purple",
+      "price": "218.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1632536080727,
+      "updatedAt": 1632536080727,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a7f576f4-6f5b-4cf5-b569-1a408fa779cc",
+      "id": "6f16deea-06b1-42fe-b006-198f3be14f3f",
+      "name": "Fantastic Granite Car",
+      "color": "grey",
+      "price": "224.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1632536080728,
+      "updatedAt": 1632536080728,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a7f576f4-6f5b-4cf5-b569-1a408fa779cc",
+      "id": "d711ed36-c2fb-4ec7-8b68-beb6691a4cb6",
+      "name": "Handmade Wooden Tuna",
+      "color": "green",
+      "price": "198.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1632536080728,
+      "updatedAt": 1632536080728,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
   "profile": { "name": "Binh tran" }
 }
